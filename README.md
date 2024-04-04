@@ -7,9 +7,7 @@
 * Lead DevOps Engineer
 
 
-[![sbulav's github activity graph](https://activity-graph.herokuapp.com/graph?username=sbulav&bg_color=000000&color=932092&line=932092&point=932092&area=true&hide_border=true)](https://github.com/sbulav?tab=repositories)
 
 
 ## Reach out & connect
 
-[Email](mailto:sergey.bulavintsev@gmail.com)
