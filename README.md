@@ -1,4 +1,3 @@
-# #OpenToWork #Resume #DevOps #SRE #PlatformEngineering #Cloud #Kubernetes #AWS #Azure #GCP #Terraform #GitOps #MLOps #Remote #FullTime
 
 ---
 
